@@ -1,0 +1,11 @@
+Управление пользователями:
+login: admin
+password: admin
+
+Управление устройствами:
+login: operator
+password: operator
+
+Просмотр устройств:
+login: user
+password: user
